@@ -7,7 +7,7 @@
 # For details see: https://github.com/CocoaPods/CocoaPods/wiki/The-podspec-format
 #
 Pod::Spec.new do |s|
-  s.name         = "RRAutolayout"
+  s.name         = "RRAutoLayout"
   s.version      = "0.0.1"
   s.summary      = "A short description of RRAutolayout."
   # s.description  = <<-DESC
