@@ -8,7 +8,7 @@
 #
 Pod::Spec.new do |s|
   s.name         = "RRAutoLayout"
-  s.version      = "0.0.1"
+  s.version      = "0.1.0"
   s.summary      = "RRAutoLayout CocoaPods pod"
   # s.description  = <<-DESC
   #                   An optional longer description of RRAutoLayout
