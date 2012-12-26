@@ -49,7 +49,7 @@ Pod::Spec.new do |s|
 
   # Specify the location from where the source should be retrieved.
   #
-  s.source       = { :git => "https://github.com/dseredinov/RRAutoLayout.git", :commit => "42db9fb06ddeac2dd3552b91b45025a3f4565148" }
+  s.source       = { :git => "https://github.com/dseredinov/RRAutoLayout.git", :tag => '0.1.0' }
   # s.source       = { :svn => 'http://EXAMPLE/RRAutoLayout/tags/1.0.0' }
   # s.source       = { :hg  => 'http://EXAMPLE/RRAutoLayout', :revision => '1.0.0' }
 
